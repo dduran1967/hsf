@@ -1,0 +1,13 @@
+{
+  "name": "@yodata/hsf",
+  "version": "1.0.0",
+  "description": "MonoRepo for yodata HSF projects",
+  "main": "index.js",
+  "repository": "https://github.com/yodata/hsf",
+  "author": "yodaveduran <dave@yodata.io> (https://yodata.io/)",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^2.11.0",
+    "lerna-changelog": "^0.8.0"
+  }
+}
